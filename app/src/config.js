@@ -1,0 +1,1 @@
+export const convertServer = import.meta.env.VITE_CONVERT_SERVER;
