@@ -8,7 +8,8 @@ Se implementará una aplicación web usando tecnlogías HTML5, CSS y JS para cre
 
 En el siguiente diagrama se evidencia la arquitectua que tendrá la solución:
 
-![imagen](https://user-images.githubusercontent.com/63758241/120248883-86c8ce80-c23e-11eb-9216-9a989f9b4604.png)
+![imagen](https://user-images.githubusercontent.com/63758241/120250059-6d298600-c242-11eb-9dea-809f6a7a3ee2.png)
+
 
 El usuario accederá a la aplicación web usando un navegador web, allí encontrará un formulario en el que puede seleccionar un documento y el formato al que desea convertirlo, esta aplicación web enviará el documento seleccionado al servidor que convierte el documento y una vez finalizado el proceso descargará el documento convertido.
 
