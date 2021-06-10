@@ -26,4 +26,15 @@
 
  - Qué características necesitamos y para qué sirven
 
- - Máximo 10 páginas - Mínimo 4
+## Rúbrica
+
+|Descripción|Nota|
+|--|--|
+|Mínimo 5 paginas - Máximo 20 páginas|10|
+|¿Cómo se puede inegrar Jenkins como un gestor de operaciones? - (referencias - citaciones correspondientes)|20|
+|¿Qué es un gestor de operaciones? - (referencias - citaciones correspondientes)|20|
+|Pasos para realizar la implementación de Jenkins|30|
+|Características requeridas para realizar la implementación de Jenkins|30|
+|Pasos para el despliegue|10|
+|Conclusiones|20|
+|Referencias en formato APA/IEEE|10|
