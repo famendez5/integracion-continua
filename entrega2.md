@@ -11,7 +11,7 @@ Para instalarlo, depende del sistema en el que lo vayas a ejecutar, pero básica
 java -jar jenkins*.war
 De todas formas te dejo un enlace oficial en inglés de como instalarlo en los diferentes sistemas: https://jenkins.io/doc/book/installing/
 
-En mi caso particular voy a instalarlo en docker para hacer pruebas en local y poder gestionarlo facilmente. Para ello simplemente he descargado la imagen de docker desde Kitematic (una GUI de docker que recomiendo) y la he ejecutado.
+Para ello simplemente he descargado la imagen de docker desde Kitematic (una GUI de docker que recomiendo) y la he ejecutado.
 
 Configuración de Jenkins y cómo instalar plugins
 Tras ejecuta Jenkins nos dirigimos a la ruta en local donde lo hayamos configurado, en mi caso, http://localhost:32769/ y nos aparecerá una imagen tal que así:
@@ -86,7 +86,7 @@ Como ves la interfaz de usuario es mucho más amigable y más pensada para todo 
 
 Cómo crear una pipeline con Blue Ocean
 
-Si quieres mas información o necesitas un tutorial más exhaustivo sobre el plugin te dejo su página oficial: https://jenkins.io/projects/blueocean/
+
 
 <!-- Aquí desarrollar la entrega -->
 
