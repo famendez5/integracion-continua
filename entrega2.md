@@ -1,17 +1,5 @@
 # Entrega 2
 
-¿Qué es Gestor de Operaciones?
-
-- Gestor de Operaciones o Gestión de Operaciones (Operations Management en inglés) es la creación, desarrollo y organización de la función de producción con el objetivo de alcanzar ventajas competitivas. La función de producción está definida por la creación, producción, distribución, mantenimiento, etc., de los bienes y servicios generados por una empresa determinada, además un gestor de operaciones supervisa la entrega de productos o servicios. Evalúa los sistemas y los procedimientos tanto actuales como propuestos, recomienda cambios cuando hace falta y supervisa la implementación de los nuevos procesos. Los gestores de operaciones dirigen el trabajo de otras personas y normalmente están a las órdenes de un gestor sénior o el director del departamento.
-
-Cabe diferenciar dos términos frecuentemente utilizados en el ámbito de la Gestión de Operaciones pero que tienen connotaciones distintas.
-- Competitividad: Posición relativa en el mercado, no es responsabilidad exclusiva de la Gestión de Operaciones.
-- Productividad: Productos por unidad de insumo, responsabilidad exclusiva de la Gestión de Operaciones.
-
-Los objetivos de la Gestión de Operaciones son producir un bien y/o prestar un servicio específico al mínimo tiempo y costo posible
-
-Según Michael Porter, precursor de la estrategia corporativa y economista reconocido mundialmente por sus contribuciones en el ámbito de la gestión estratégica y el marketing, alcanzar ventajas competitivas tiene relación con la propuesta de valor a largo plazo de la empresa y se materializa a través de la aplicación de tres estrategias competitivas genéricas, a saber: liderazgo en costos, la diferenciación del producto y el enfoque.
-
 Cómo instalar Jenkins. Tutorial básico
 Para instalar Jenkins en tu servidor primero te tienes que bajar una versión desde su página web oficial: https://jenkins.io/download/
 
@@ -230,11 +218,15 @@ Cómo crear una pipeline con Blue Ocean
 
 ![imagen](https://user-images.githubusercontent.com/63758241/122143441-1c578700-ce17-11eb-9c29-3c38decf11e5.png)
 
+## Conclusiones:
+- Jenkins nos puede acercar a nuestro proyecto la filosofía de la integración continua que es perfecta para tener un control de lo que pasa en el proyecto, para saber que tan estable es un proyecto y para avisar a la gente cuando un build a producción ha salido mal. Si el proyecto es pequeño de pronto requerirá un mayor esfuerzo montar todo pero a largo plazo es bueno para no desgastarse tanto haciendo los builds, despliegues, etc, de forma manual. Ademas podemos construir grandes cosas a cualquier escala al ser una herramienta tan poderosa para realizar pruebas de nuestros proyectos y detectar los errores cuanto antes.
+- Aplicando esta herramienta de JENKINS podemos realizar actividades poco frecuentes, englobando todos los conocimientos que hemos obtenido y mirando los diferentes puntos de vista o enfoque para así seguir ordenadamente los pasos a seguir y utilizar esta herramienta para realizar de manera óptima teniendo como ventaja que monitoreando la calidad del código y las pruebas que realizamos, sabremos en cualquier momento el estado del código fuente para saber si tiene errores o no, todo con el fin de reducir los  errores y costos y aumentar la productividad en el código.
+- Con esta herramienta nos damos cuenta de la importancia de hacer un control de versiones, y más aún cuando trabajamos con personas un poco desconocidas y con diferentes puntos de vista, por lo que debíamos llegar a acuerdos para plasmar cualquier idea e integrar cada módulo en una misma fuente, y con los svn (subversion) nos permite no reescribir el código del otro. Y para que cuando se pase a producción todo sea de la manera mas transparente posible, Jenkins es muy importante ya que así podremos desarrollar y tener éxito en nuestros proyectos.
+
 ## Referencias:
  - https://www.jenkins.io/doc/book/installing/war-file/
  - https://codingpotions.com/jenkins-integracion-continua
  - https://ricardogeek.com/guia-para-instalar-jenkins-desde-la-terminal/
- - https://www.gestiondeoperaciones.net/procesos/que-es-la-gestion-de-operaciones/
 
 <!-- Aquí finaliza la entrega -->
 
