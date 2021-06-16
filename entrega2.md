@@ -162,6 +162,13 @@ Cómo crear una pipeline con Blue Ocean
 ![imagen](https://user-images.githubusercontent.com/63758241/122140986-072c2980-ce12-11eb-9971-460f6c8bb54b.png)
 
 
+### Configurar repositorio
+
+Crear el archivo `JenkinsFile` en el directorio raíz del repositorio:
+
+![imagen](https://user-images.githubusercontent.com/63758241/122141808-bf0e0680-ce13-11eb-8d28-3b3ff270e5f0.png)
+
+
 ## Referencias:
  - https://www.jenkins.io/doc/book/installing/war-file/
  - https://codingpotions.com/jenkins-integracion-continua
