@@ -166,7 +166,8 @@ Cómo crear una pipeline con Blue Ocean
 
 1. Crear el archivo `Jenkinsfile` en el directorio raíz del repositorio:
 
-![imagen](https://user-images.githubusercontent.com/63758241/122142352-e9ac8f00-ce14-11eb-91f7-291503101399.png)
+![imagen](https://user-images.githubusercontent.com/63758241/122143254-bb2fb380-ce16-11eb-94c5-55a0877c228c.png)
+
 
 2. Agregar una nueva tarea en la consola de Jenkins:
 
@@ -185,7 +186,7 @@ Cómo crear una pipeline con Blue Ocean
 ![imagen](https://user-images.githubusercontent.com/63758241/122142280-bec23b00-ce14-11eb-84dc-b637b9f0a513.png)
 
 
-6. Finalmente saldrá un mensaje que indica que el repositorio ha quedado configurado correctamente:
+6. Si todo ha quedado bien configurad saldrá un mensaje que indica que el repositorio ha quedado configurado correctamente:
 
 ![imagen](https://user-images.githubusercontent.com/63758241/122142626-79ead400-ce15-11eb-9e27-733022cfb582.png)
 
