@@ -35,6 +35,17 @@
 4. Copiar el token generado:
 ![imagen](https://user-images.githubusercontent.com/63758241/122139750-4efd8180-ce0f-11eb-8021-082875c7886c.png)
 
+5. En la consola de Jenkins, seleccionar el menú `Administrar Jenkins`:
+![imagen](https://user-images.githubusercontent.com/63758241/122139901-9be15800-ce0f-11eb-86fa-11ff4e15a7e7.png)
+
+6. Seleccionar la opción `Manage Credentials`:
+![imagen](https://user-images.githubusercontent.com/63758241/122139933-ac91ce00-ce0f-11eb-8799-c62d85b219e8.png)
+
+7. En el alcance, seleccionar `global`:
+![imagen](https://user-images.githubusercontent.com/63758241/122139978-c206f800-ce0f-11eb-9880-4510fd493c3b.png)
+
+8. Seleccionar la opción `Add Credentials`:
+![imagen](https://user-images.githubusercontent.com/63758241/122140025-d3e89b00-ce0f-11eb-993e-54434a1bf601.png)
 
 
 ## Referencias:
