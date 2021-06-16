@@ -234,6 +234,7 @@ Cómo crear una pipeline con Blue Ocean
  - https://www.jenkins.io/doc/book/installing/war-file/
  - https://codingpotions.com/jenkins-integracion-continua
  - https://ricardogeek.com/guia-para-instalar-jenkins-desde-la-terminal/
+ - https://www.gestiondeoperaciones.net/procesos/que-es-la-gestion-de-operaciones/
 
 <!-- Aquí finaliza la entrega -->
 
