@@ -1,18 +1,5 @@
 # Entrega 2
 
-- Requisitos de Hardware
-    * Configuración mínima de hardware:
-        * 256 MB de RAM
-        * 1 GB de espacio libre en disco, si Jenkins se ejecuta como contenedor Docker, se recomienda un mínimo de 10 GB
-
-    * Configuración de hardware recomendada para equipos pequeños:
-        * 1 GB + RAM
-        * 50 GB + espacio libre en disco
-        
-- Requisitos de Software:
-    * Java 8-Java Runtime Environment (JRE) o un Java Development Kit (JDK) ya sea
-    Nota: si ejecuta Jenkins como contenedor de Docker, no es necesario que cumpla con este requisito.
-
 Cómo instalar Jenkins. Tutorial básico
 Para instalar Jenkins en tu servidor primero te tienes que bajar una versión desde su página web oficial: https://jenkins.io/download/
 
@@ -220,6 +207,18 @@ Cómo crear una pipeline con Blue Ocean
 
 ![imagen](https://user-images.githubusercontent.com/63758241/122143441-1c578700-ce17-11eb-9c29-3c38decf11e5.png)
 
+- Requisitos de Hardware
+    * Configuración mínima de hardware:
+        * 256 MB de RAM
+        * 1 GB de espacio libre en disco, si Jenkins se ejecuta como contenedor Docker, se recomienda un mínimo de 10 GB
+
+    * Configuración de hardware recomendada para equipos pequeños:
+        * 1 GB + RAM
+        * 50 GB + espacio libre en disco
+        
+- Requisitos de Software:
+    * Java 8-Java Runtime Environment (JRE) o un Java Development Kit (JDK) ya sea
+    Nota: si ejecuta Jenkins como contenedor de Docker, no es necesario que cumpla con este requisito.
 
 
 ## Referencias:
