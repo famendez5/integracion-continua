@@ -164,25 +164,30 @@ Cómo crear una pipeline con Blue Ocean
 
 ### Configurar repositorio
 
-Crear el archivo `Jenkinsfile` en el directorio raíz del repositorio:
+1. Crear el archivo `Jenkinsfile` en el directorio raíz del repositorio:
 
 ![imagen](https://user-images.githubusercontent.com/63758241/122142352-e9ac8f00-ce14-11eb-91f7-291503101399.png)
 
-Agregar una nueva tarea en la consola de Jenkins:
+2. Agregar una nueva tarea en la consola de Jenkins:
 
 ![imagen](https://user-images.githubusercontent.com/63758241/122141904-efee3b80-ce13-11eb-89be-19f6f46d4551.png)
 
 
-Darle un nombre a la tarea y seleccionar `Multibranch pipeline`:
+3. Darle un nombre a la tarea y seleccionar `Multibranch pipeline`:
 
 ![imagen](https://user-images.githubusercontent.com/63758241/122142440-12cd1f80-ce15-11eb-844a-0824e822f480.png)
 
-En la sección `Branch Sources` seleccionar Github:
+4. En la sección `Branch Sources` seleccionar Github:
 ![imagen](https://user-images.githubusercontent.com/63758241/122142137-6d19b080-ce14-11eb-882b-5ee8c39f507b.png)
 
-Seleccionar las credenciales que empiecen con el nombre de usuario de Github, ingresar el link del repositorio y hacer click en `Save`:
+5. Seleccionar las credenciales que empiecen con el nombre de usuario de Github, ingresar el link del repositorio y hacer click en `Save`:
 
 ![imagen](https://user-images.githubusercontent.com/63758241/122142280-bec23b00-ce14-11eb-84dc-b637b9f0a513.png)
+
+
+6. Finalmente saldrá un mensaje que indica que el repositorio ha quedado configurado correctamente:
+
+![imagen](https://user-images.githubusercontent.com/63758241/122142626-79ead400-ce15-11eb-9e27-733022cfb582.png)
 
 
 
