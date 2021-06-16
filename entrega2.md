@@ -111,6 +111,29 @@ Cómo crear una pipeline con Blue Ocean
 9. Finalizar instalación
 ![imagen](https://user-images.githubusercontent.com/63758241/122138936-6cc9e700-ce0d-11eb-9fb5-9cc6a92b8543.png)
 
+10. Generar otro token de acceso siguiendo los pasos explicados anteriormente, esta vez marcando la casilla `admin:repo_hook` además de la casilla `repo`:
+![imagen](https://user-images.githubusercontent.com/63758241/122140495-0777f500-ce11-11eb-9973-e6e07390c1a5.png)
+
+![imagen](https://user-images.githubusercontent.com/63758241/122140501-0a72e580-ce11-11eb-9116-6125dbcd2e6a.png)
+
+11. Crear otra credencial en la consola de Jenkins, esta vez seleccionando como `kind` la opción `Secret text` y pegando el token generado en el campo `Secret`:
+![imagen](https://user-images.githubusercontent.com/63758241/122140607-56be2580-ce11-11eb-8bfe-e11c9f908eb3.png)
+
+
+### Configuar hooks en Jenkins
+
+1. Seleccionar la opción `Configuar sistema` en el menú `Administrar Jenkins`:
+
+![imagen](https://user-images.githubusercontent.com/63758241/122140709-853c0080-ce11-11eb-9d28-2228c9b093c3.png)
+
+2. En la sección `Github`, seleccionar la opción `Add GitHub Server`:
+![imagen](https://user-images.githubusercontent.com/63758241/122140817-b74d6280-ce11-11eb-8ec0-98c044fd231c.png)
+
+
+3. Llenar el formulario así: (i) en nombre ingresar `GitHub`, (ii) en `credentials` seleccionar la última credencial creada y (iii) marcar la casilla `Manage hooks`:
+![imagen](https://user-images.githubusercontent.com/63758241/122140986-072c2980-ce12-11eb-9971-460f6c8bb54b.png)
+
+
 ### Configuración
 
 1. Generar token de acceso personal de Github, ingresando al link https://github.com/settings/tokens y haciendo clic en el botón `Generate new token`:
