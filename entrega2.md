@@ -218,6 +218,11 @@ Cómo crear una pipeline con Blue Ocean
 
 ![imagen](https://user-images.githubusercontent.com/63758241/122143441-1c578700-ce17-11eb-9c29-3c38decf11e5.png)
 
+¿Cómo se puede integrar Jenkins como un gestor de operaciones? - (referencias - citaciones correspondientes)
+
+La mejor forma en que se puede integrar Jenkins como un gestor de operaciones, es configurarlo para que se realicen los despliegues automáticamente al aprobar un pull request de una rama en especifico en un gestor de código como github. Así se asegura la entrega continua de nuevas funcionalidades con velocidad y de forma ágil, además de que se podrá configurar para realizar pruebas unitarias y de integración cada vez que se realice un despliegue y así se pueda garantizar el correcto funcionamiento de la aplicación.
+
+
 ## Conclusiones:
 - Jenkins nos puede acercar a nuestro proyecto la filosofía de la integración continua que es perfecta para tener un control de lo que pasa en el proyecto, para saber que tan estable es un proyecto y para avisar a la gente cuando un build a producción ha salido mal. Si el proyecto es pequeño de pronto requerirá un mayor esfuerzo montar todo pero a largo plazo es bueno para no desgastarse tanto haciendo los builds, despliegues, etc, de forma manual. Ademas podemos construir grandes cosas a cualquier escala al ser una herramienta tan poderosa para realizar pruebas de nuestros proyectos y detectar los errores cuanto antes.
 - Aplicando esta herramienta de JENKINS podemos realizar actividades poco frecuentes, englobando todos los conocimientos que hemos obtenido y mirando los diferentes puntos de vista o enfoque para así seguir ordenadamente los pasos a seguir y utilizar esta herramienta para realizar de manera óptima teniendo como ventaja que monitoreando la calidad del código y las pruebas que realizamos, sabremos en cualquier momento el estado del código fuente para saber si tiene errores o no, todo con el fin de reducir los  errores y costos y aumentar la productividad en el código.
