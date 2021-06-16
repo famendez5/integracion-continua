@@ -47,6 +47,9 @@
 8. Seleccionar la opción `Add Credentials`:
 ![imagen](https://user-images.githubusercontent.com/63758241/122140025-d3e89b00-ce0f-11eb-993e-54434a1bf601.png)
 
+9. Diligenciar el formulario así: (i) en el campo `kind` seleccionar `Username and password`, (ii) en el campo `scope` seleccionar `global`, (iii) en el campo username ingresar el nombre de usuario de github, (iv) el campo `password` ingresar el token copiado anteriormente y (v) en el campo `id` ingresar un identificador de la credencial:
+![imagen](https://user-images.githubusercontent.com/63758241/122140260-70ab3880-ce10-11eb-97cc-c683b58038c2.png)
+
 
 ## Referencias:
  - https://www.jenkins.io/doc/book/installing/war-file/
