@@ -173,6 +173,11 @@ Agregar una nueva tarea en la consola de Jenkins:
 ![imagen](https://user-images.githubusercontent.com/63758241/122141904-efee3b80-ce13-11eb-89be-19f6f46d4551.png)
 
 
+Darle un nombre a la tarea y seleccionar `Multibranch pipeline`:
+
+![imagen](https://user-images.githubusercontent.com/63758241/122142076-48bdd400-ce14-11eb-8c92-e322a4500175.png)
+
+
 ## Referencias:
  - https://www.jenkins.io/doc/book/installing/war-file/
  - https://codingpotions.com/jenkins-integracion-continua
