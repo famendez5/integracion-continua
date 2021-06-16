@@ -10,6 +10,13 @@
 2. Abrir una terminal o consola de comandos y dirigirse al directorio en el que se guardó el archivo:
 ![imagen](https://user-images.githubusercontent.com/63758241/122138219-e19c2180-ce0b-11eb-891e-26fb1c4e45b8.png)
 3. Ejecutar el comando `java -jar jenkins.war`:
+![imagen](https://user-images.githubusercontent.com/63758241/122138424-51aaa780-ce0c-11eb-86c4-211740669d9e.png)
+4. Abrir la URL http://localhost:8080/ en el navegador:
+![imagen](https://user-images.githubusercontent.com/63758241/122138554-959dac80-ce0c-11eb-8687-2f49d3b6166c.png)
+6. Ingresar la contraseña generada en la consola:
+![imagen](https://user-images.githubusercontent.com/63758241/122138580-a0f0d800-ce0c-11eb-9e0f-43b561f544e3.png)
+7. Instalar los plugins recomendados:
+![imagen](https://user-images.githubusercontent.com/63758241/122138685-d4cbfd80-ce0c-11eb-8c02-49db69383e25.png)
 
 
 ## Referencias:
