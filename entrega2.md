@@ -3,6 +3,17 @@
 
 <!-- Aquí desarrollar la entrega -->
 
+## Pasos para el despliegue
+
+1. Descargar la última versión estable desde el siguiente link: https://www.jenkins.io/download
+![imagen](https://user-images.githubusercontent.com/63758241/122138100-aac60b80-ce0b-11eb-9e1a-720283d03a53.png)
+2. Abrir una terminal o consola de comandos y dirigirse al directorio en el que se guardó el archivo:
+![imagen](https://user-images.githubusercontent.com/63758241/122138219-e19c2180-ce0b-11eb-891e-26fb1c4e45b8.png)
+3. Ejecutar el comando `java -jar jenkins.war`:
+
+
+## Referencias:
+ - https://www.jenkins.io/doc/book/installing/war-file/
 
 <!-- Aquí finaliza la entrega -->
 
