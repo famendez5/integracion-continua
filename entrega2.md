@@ -175,7 +175,7 @@ Agregar una nueva tarea en la consola de Jenkins:
 
 Darle un nombre a la tarea y seleccionar `Multibranch pipeline`:
 
-![imagen](https://user-images.githubusercontent.com/63758241/122142076-48bdd400-ce14-11eb-8c92-e322a4500175.png)
+![imagen](https://user-images.githubusercontent.com/63758241/122142407-01841300-ce15-11eb-8fa4-ea61522e67b7.png)
 
 En la sección `Branch Sources` seleccionar Github:
 ![imagen](https://user-images.githubusercontent.com/63758241/122142137-6d19b080-ce14-11eb-882b-5ee8c39f507b.png)
