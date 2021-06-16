@@ -1,7 +1,8 @@
 # Entrega 2
 
 ¿Qué es Gestor de Operaciones?
-Gestor de Operaciones o Gestión de Operaciones (Operations Management en inglés) es la creación, desarrollo y organización de la función de producción con el objetivo de alcanzar ventajas competitivas. La función de producción está definida por la creación, producción, distribución, mantenimiento, etc., de los bienes y servicios generados por una empresa determinada, además un gestor de operaciones supervisa la entrega de productos o servicios. Evalúa los sistemas y los procedimientos tanto actuales como propuestos, recomienda cambios cuando hace falta y supervisa la implementación de los nuevos procesos. Los gestores de operaciones dirigen el trabajo de otras personas y normalmente están a las órdenes de un gestor sénior o el director del departamento.
+
+- Gestor de Operaciones o Gestión de Operaciones (Operations Management en inglés) es la creación, desarrollo y organización de la función de producción con el objetivo de alcanzar ventajas competitivas. La función de producción está definida por la creación, producción, distribución, mantenimiento, etc., de los bienes y servicios generados por una empresa determinada, además un gestor de operaciones supervisa la entrega de productos o servicios. Evalúa los sistemas y los procedimientos tanto actuales como propuestos, recomienda cambios cuando hace falta y supervisa la implementación de los nuevos procesos. Los gestores de operaciones dirigen el trabajo de otras personas y normalmente están a las órdenes de un gestor sénior o el director del departamento.
 
 Cabe diferenciar dos términos frecuentemente utilizados en el ámbito de la Gestión de Operaciones pero que tienen connotaciones distintas.
 •	Competitividad: Posición relativa en el mercado, no es responsabilidad exclusiva de la Gestión de Operaciones.
