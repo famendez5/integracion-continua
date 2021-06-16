@@ -1,6 +1,6 @@
 # Entrega 2
 
-- Requisitos de Hardwar
+- Requisitos de Hardware
     * Configuración mínima de hardware:
         256 MB de RAM
         1 GB de espacio libre en disco, si Jenkins se ejecuta como contenedor Docker, se recomienda un mínimo de 10 GB
