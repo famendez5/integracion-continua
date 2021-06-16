@@ -168,6 +168,10 @@ Crear el archivo `JenkinsFile` en el directorio raíz del repositorio:
 
 ![imagen](https://user-images.githubusercontent.com/63758241/122141808-bf0e0680-ce13-11eb-8d28-3b3ff270e5f0.png)
 
+Agregar una nueva tarea en la consola de Jenkins:
+
+![imagen](https://user-images.githubusercontent.com/63758241/122141904-efee3b80-ce13-11eb-89be-19f6f46d4551.png)
+
 
 ## Referencias:
  - https://www.jenkins.io/doc/book/installing/war-file/
