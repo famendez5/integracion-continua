@@ -190,6 +190,22 @@ Cómo crear una pipeline con Blue Ocean
 
 ![imagen](https://user-images.githubusercontent.com/63758241/122142626-79ead400-ce15-11eb-9e27-733022cfb582.png)
 
+### Compilar el proyecto
+
+1. Para compilar el proyecto se debe hacer clic en la opción `Construir ahora`:
+
+![imagen](https://user-images.githubusercontent.com/63758241/122143334-e914f800-ce16-11eb-9b4e-06dbe2584b5a.png)
+
+2. La nueva tarea aparecerá en la parte inferior:
+
+![imagen](https://user-images.githubusercontent.com/63758241/122143384-fdf18b80-ce16-11eb-941b-3f6c69456ff1.png)
+
+3. Haciendo clic en el menú `Console Output` se podrá ver el log de ejecución:
+
+![imagen](https://user-images.githubusercontent.com/63758241/122143427-1497e280-ce17-11eb-83fb-ea678cd75f5c.png)
+
+![imagen](https://user-images.githubusercontent.com/63758241/122143441-1c578700-ce17-11eb-9c29-3c38decf11e5.png)
+
 
 
 ## Referencias:
