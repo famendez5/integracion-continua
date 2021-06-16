@@ -180,6 +180,10 @@ Darle un nombre a la tarea y seleccionar `Multibranch pipeline`:
 En la sección `Branch Sources` seleccionar Github:
 ![imagen](https://user-images.githubusercontent.com/63758241/122142137-6d19b080-ce14-11eb-882b-5ee8c39f507b.png)
 
+Seleccionar las credenciales que empiecen con el nombre de usuario de Github, ingresar el link del repositorio y hacer click en `Save`:
+
+![imagen](https://user-images.githubusercontent.com/63758241/122142280-bec23b00-ce14-11eb-84dc-b637b9f0a513.png)
+
 
 
 ## Referencias:
