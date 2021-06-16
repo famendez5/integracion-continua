@@ -17,6 +17,10 @@
 ![imagen](https://user-images.githubusercontent.com/63758241/122138580-a0f0d800-ce0c-11eb-9e0f-43b561f544e3.png)
 7. Instalar los plugins recomendados:
 ![imagen](https://user-images.githubusercontent.com/63758241/122138685-d4cbfd80-ce0c-11eb-8c02-49db69383e25.png)
+8. Crear usuario
+![imagen](https://user-images.githubusercontent.com/63758241/122138930-6a678d00-ce0d-11eb-9ac7-74ef601a717f.png)
+9. Finalizar instalación
+![imagen](https://user-images.githubusercontent.com/63758241/122138936-6cc9e700-ce0d-11eb-9fb5-9cc6a92b8543.png)
 
 
 ## Referencias:
