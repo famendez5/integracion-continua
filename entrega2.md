@@ -24,7 +24,7 @@
 9. Finalizar instalación
 ![imagen](https://user-images.githubusercontent.com/63758241/122138936-6cc9e700-ce0d-11eb-9fb5-9cc6a92b8543.png)
 
-### Configuración
+### Configurar credenciales
 
 1. Generar token de acceso personal de Github, ingresando al link https://github.com/settings/tokens y haciendo clic en el botón `Generate new token`:
 ![imagen](https://user-images.githubusercontent.com/63758241/122139559-ddbdce80-ce0e-11eb-8db3-a32ce1abb665.png)
@@ -50,9 +50,17 @@
 9. Diligenciar el formulario así: (i) en el campo `kind` seleccionar `Username and password`, (ii) en el campo `scope` seleccionar `global`, (iii) en el campo username ingresar el nombre de usuario de github, (iv) el campo `password` ingresar el token copiado anteriormente y (v) en el campo `id` ingresar un identificador de la credencial:
 ![imagen](https://user-images.githubusercontent.com/63758241/122140260-70ab3880-ce10-11eb-97cc-c683b58038c2.png)
 
+10. Generar otro token de acceso siguiendo los pasos explicados anteriormente, esta vez marcando la casilla `admin:repo_hook` además de la casilla `repo`:
+![imagen](https://user-images.githubusercontent.com/63758241/122140495-0777f500-ce11-11eb-9973-e6e07390c1a5.png)
+
+![imagen](https://user-images.githubusercontent.com/63758241/122140501-0a72e580-ce11-11eb-9116-6125dbcd2e6a.png)
+
+11. Crear otra credencial en la consola de Jenkins, esta vez seleccionando como `kind` la opción `Secret text` y pegando el token generado en el campo `Secret`:
+![imagen](https://user-images.githubusercontent.com/63758241/122140607-56be2580-ce11-11eb-8bfe-e11c9f908eb3.png)
 
 ## Referencias:
  - https://www.jenkins.io/doc/book/installing/war-file/
+ - https://medium.com/contino-engineering/jenkins-github-da70ab1a7362
 
 <!-- Aquí finaliza la entrega -->
 
