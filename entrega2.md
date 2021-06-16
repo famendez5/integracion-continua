@@ -2,12 +2,13 @@
 
 - Requisitos de Hardware
     * Configuración mínima de hardware:
-         256 MB de RAM
-         1 GB de espacio libre en disco, si Jenkins se ejecuta como contenedor Docker, se recomienda un mínimo de 10 GB
+        º 256 MB de RAM
+        º 1 GB de espacio libre en disco, si Jenkins se ejecuta como contenedor Docker, se recomienda un mínimo de 10 GB
 
     * Configuración de hardware recomendada para equipos pequeños:
-         1 GB + RAM
-         50 GB + espacio libre en disco
+        º 1 GB + RAM
+        º 50 GB + espacio libre en disco
+        
 - Requisitos de Software:
     * Java 8-Java Runtime Environment (JRE) o un Java Development Kit (JDK) ya sea
     Nota: si ejecuta Jenkins como contenedor de Docker, no es necesario que cumpla con este requisito.
