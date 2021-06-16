@@ -5,6 +5,8 @@
 
 ## Pasos para el despliegue
 
+### Instalación
+
 1. Descargar la última versión estable desde el siguiente link: https://www.jenkins.io/download
 ![imagen](https://user-images.githubusercontent.com/63758241/122138100-aac60b80-ce0b-11eb-9e1a-720283d03a53.png)
 2. Abrir una terminal o consola de comandos y dirigirse al directorio en el que se guardó el archivo:
@@ -21,6 +23,18 @@
 ![imagen](https://user-images.githubusercontent.com/63758241/122138930-6a678d00-ce0d-11eb-9ac7-74ef601a717f.png)
 9. Finalizar instalación
 ![imagen](https://user-images.githubusercontent.com/63758241/122138936-6cc9e700-ce0d-11eb-9fb5-9cc6a92b8543.png)
+
+### Configuración
+
+1. Generar token de acceso personal de Github, ingresando al link https://github.com/settings/tokens y haciendo clic en el botón `Generate new token`:
+![imagen](https://user-images.githubusercontent.com/63758241/122139559-ddbdce80-ce0e-11eb-8db3-a32ce1abb665.png)
+2. Como nombre ingresar `Jenkins` y como alcance marcar la casilla `repo`:
+![imagen](https://user-images.githubusercontent.com/63758241/122139649-0e056d00-ce0f-11eb-850f-c18a59cf830e.png)
+3. Hacer clic en el botón `Generate token` ubicado al final de la página:
+![imagen](https://user-images.githubusercontent.com/63758241/122139698-2d03ff00-ce0f-11eb-8eec-98cc32b7f73c.png)
+4. Copiar el token generado:
+![imagen](https://user-images.githubusercontent.com/63758241/122139750-4efd8180-ce0f-11eb-8021-082875c7886c.png)
+
 
 
 ## Referencias:
