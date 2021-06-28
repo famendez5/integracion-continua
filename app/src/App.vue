@@ -1,6 +1,6 @@
 <template>
   <main class="p-4 my-8 max-w-5xl mx-auto">
-    <h1 class="text-3xl font-bold mb-4 text-center text-gray-900">Convertir Documento</h1>
+    <h1 class="text-3xl font-bold mb-4 text-center text-gray-900">Convertir Documento a PDF</h1>
     <form @submit.prevent="submitForm">
       <div class="mb-3 w-full">
         <label for="file" class="block text-left font-medium text-gray-700">Documento</label>
